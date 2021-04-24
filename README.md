@@ -7,10 +7,11 @@ Here are some things about me:
 - 💖 I love programming.
 - 📃 I use vim and VSCode.
 - 💻 I am currently using WSL(Ubuntu) on windows for programming.
-- 🔭 I’m currently working on Python.
+- 🔭 I’m currently working on Selenium Automation.
 - 📚 I'm learning Java.
 ## My Projects
 - Bookmark browser extension application.
+- IRCTC Train Search Automation
 - Ludo
 <!--
 - 🌱 I’m currently learning React, Django.
