@@ -12,7 +12,7 @@ Here are some things about me:
 ## My Projects
 - Bookmark browser extension application.
 - IRCTC Train Search Automation
-- Ludo
+- Java Notepad
 <!--
 - 🌱 I’m currently learning React, Django.
 
