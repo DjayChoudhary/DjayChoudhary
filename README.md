@@ -9,7 +9,7 @@ Here are some things about me:
 - 📃 I use vim and VSCode.
 - 💻 I am currently using WSL(Ubuntu) on windows for programming.
 - 🔭 I’m currently working on Selenium Automation, React.js and Spring Boot.
-- 📚 I'm currently learning React, Spring Boot, Java .
+- 📚 I'm currently learning React, Spring Boot, Java.
 ## My Projects
 - CodeChamp - An online code compiler for different languages made with React.js and Spring Boot.
 - Bookmark browser extension application.
