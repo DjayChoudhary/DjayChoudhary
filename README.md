@@ -17,7 +17,6 @@ Here are some things about me:
 - Java Notepad
 <!--
 - 🌱 I’m currently learning React, Django.
-
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
