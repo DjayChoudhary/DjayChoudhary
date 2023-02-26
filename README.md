@@ -12,6 +12,7 @@ Here are some things about me:
 - 📚 I'm currently learning React, Spring Boot, Java.
 ## My Projects
 - CodeChamp - An online code compiler for different languages made with React.js and Spring Boot.
+- Geektrust Admin UI Challenge project.
 - Bookmark browser extension application.
 - IRCTC Train Search Automation
 - Java Notepad
