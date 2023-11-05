@@ -31,7 +31,7 @@ Here are some things about me:
 
 - 🌱 I’m currently learning **React, Next.**
 
-- 👨‍💻 All of my projects are available at [https://djaydev.me](https://djaydev.me)
+- 👨‍💻 Currently I am working on building a **Kanban Board** using **Next.js/React.js**, Tailwind.CSS & ShadCN, Redux Toolkit and project is hosted live at [kanban.djaydev.me](https://kanban.djaydev.me)
 
 - 💬 Ask me about **React, JS, Selenium, Automation, Python.**
 
