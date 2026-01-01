@@ -1,39 +1,73 @@
-<!--
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhananjay Choudhary</h1>
+<h3 align="center">AI Full Stack Engineer | Python • React • Next.js | AI & Automation</h3>
 
-Here are some things about me:
-- 💖 I love programming.
-- [Google Cloud Certified Associate Cloud Engineer.](https://www.credential.net/fe87df50-fe1c-4e1c-9e3e-3aea2c78c52c)
-- 📃 I use vim and VSCode.
-- 💻 I am currently using WSL(Ubuntu) on windows for programming.
-- 🔭 I’m currently working on React.js, Java, Selenium Automation and Spring Boot.
-- 📚 I'm currently learning React, Spring Boot, Java.
-## My Projects
-- CodeChamp - An online code compiler for different languages made with React.js and Spring Boot.
-- Geektrust Admin UI Dashboard project.
-- Bookmark browser extension application.
-- IRCTC Train Search Automation
-- Java Notepad
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=djaychoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="djaychoudhary" />
+</p>
 
-- 🌱 I’m currently learning React, Django.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi 👋, I'm Dhananjay</h1>
-<h3 align="center">A passionate developer from India</h3>
+### 🚀 About Me
+- 💻 Full Stack Software Engineer with **~5 years of experience**
+- 🧠 Working at an **AI startup**, primarily on **document extraction, automation & RAGs**
+- ⚡ Strong in **Python + FastAPI**, **React / Next.js (App Router)**  
+- 🎯 Currently focused on **upskilling for high-impact roles & long-term growth**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djaychoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="djaychoudhary" /> </p>
+---
 
-- 🌱 I’m currently learning **React, Next.**
+### 🧰 Tech Stack
+**Frontend**
+- React.js, Next.js (App Router)
+- Tailwind CSS, ShadCN UI
+- Redux Toolkit
 
-- 👨‍💻 Currently I am working on building a **Kanban Board** using **Next.js/React.js**, Tailwind.CSS & ShadCN, Redux Toolkit and project is hosted live at [kanban.djaydev.me](https://kanban.djaydev.me)
+**Backend**
+- Python, FastAPI
+- REST APIs, Async programming
 
-- 💬 Ask me about **React, JS, Selenium, Automation, Python.**
+**Automation & AI**
+- Selenium Automation
+- Document processing & extraction pipelines
+- LLM integration (OpenAI / Ollama)
+
+**Dev & Infra**
+- Docker, CI/CD
+- Azure (Container Apps, Functions)
+- Git, GitHub
+
+---
+
+### 🌱 Currently Learning
+- Advanced **System Design**
+- **DSA (long-term consistency)**
+- Applied **AI Engineering** (LLMs, RAG, extraction systems)
+
+---
+
+### 🔥 Featured Project
+**Kanban Board (Live)**
+- Built with **Next.js, React, Tailwind CSS, ShadCN UI**
+- State management using **Redux Toolkit**
+- 🌐 Live: https://kanban.djaydev.me
+
+---
+
+### 💬 Ask Me About
+- React & Next.js
+- Python & FastAPI
+- Automation & Selenium
+- Building real-world AI workflows
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/djaychoudhary
+- Portfolio / Projects: https://kanban.djaydev.me
+
+---
+
+⭐ *Always learning, always building.*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
